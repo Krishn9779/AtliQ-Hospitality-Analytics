@@ -1,8 +1,7 @@
 
 # Atliq Grands Hospitality Analytics Project
 This project is part of data analytics bootcamp at "codebasics"
-## LIVE DASHBOARD LINK : https://app.powerbi.com/view?r=eyJrIjoiZDRkZjAwZmEtYmM3NC00MWNkLWE1NjYtM2RiNGQwYTQxYmVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
-## VIDEO PRESENTATION LINK: https://youtu.be/_XDDK4jd36k?si=oy4gN1_eF0fouC4B
+## LIVE DASHBOARD LINK : https://shorturl.at/eOSP4 
 ## Overview
 
 This repository contains the project files for the Atliq Grands Hospitality Analytics project. Atliq Grands, a prominent player in India's hospitality sector, faced challenges in the luxury business hotel segment. This project aims to address those challenges by incorporating data-driven strategies and business intelligence.
@@ -42,7 +41,6 @@ The primary goal of this project is to enhance Atliq Grands' market share and re
      
 ## Repository Contents
 
-- ` project pdf`: Contains dashboard pdf files
 - ` insights`: contians key insigths from dashboard  
 - `recommendation`: contains key recommendations from dashboard
 - `data modelling `: star and schema modelling between fact and dimension table 
